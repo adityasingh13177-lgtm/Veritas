@@ -1,6 +1,6 @@
 # Veritas
 
-> Ask questions about your PDFs. Get answers **with proof**. If the proof is missing, VeriDoc says **"I don't have proof"** instead of making something up.
+> Ask questions about your PDFs. Get answers **with proof**. If the proof is missing, Veritas says **"I don't have proof"** instead of making something up.
 
 Built for **Hackasol 5.0 · Track 2 (AIML) · AIML-02: Zero-Guessing & Contradiction-Checking Document AI**.
 Everything runs **on your own computer** with open-source models. No paid AI service is used.
@@ -16,7 +16,7 @@ Normal AI chatbots have three problems with them:
 2. They **miss conflicts**, for example one page says "2%" and another says "3%".
 3. They **don't know which version is current** when a document has been amended several times.
 
-## 2. What VeriDoc does
+## 2. What Veritas does
 
 | Feature | What it means in simple words |
 |---|---|
@@ -71,7 +71,7 @@ Normal AI chatbots have three problems with them:
 ## 5. Project structure
 
 ```
-veridoc/
+Veritas/
 │
 ├── README.md              <- you are here
 ├── requirements.txt       <- Python packages to install
